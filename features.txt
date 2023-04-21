@@ -1,0 +1,12 @@
+Funtion Based Views
+Class Based Views
+Authentication
+User Login and logout system
+Register user
+User profile info and photo
+Update user and profile
+Crispy forms templating
+Gmail password reset
+CRUD
+Pagination system
+Responsive UI
